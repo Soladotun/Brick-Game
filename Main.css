@@ -1,0 +1,41 @@
+/* Created by Soladotun  */
+
+button{
+    width:100px;
+    height:70px;
+    background-color:green;
+    border:2px solid black;
+    border-radius:10px;
+    font-size:20px;
+    color:white;
+    font-family:monospace;
+    outline:none; 
+}
+
+button:hover{
+    background-color:LightGreen;
+}
+
+#button1{
+    position:absolute;
+    top:70%;
+    left:5%;
+}
+
+#button2{
+    position:absolute;
+    top:70%;
+    left:70%;
+}
+
+/*
+created by Soladotun */
+
+
+
+
+
+
+
+
+
